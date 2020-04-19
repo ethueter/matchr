@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    border-bottom: 5px solid;
+}
+
+h1 {
+    color:darkgreen;
+    flex-grow: 2;
+    text-align: center;
+    font-size: 45px;
+}
+
+.new-game {
+    justify-items: flex-end;
+}
+
+/* style for gameboard */
+
+.gameboard {
+    width: 60%;
+    height: 500px;
+    border: 2px solid;
+    margin: 40px 40px;
+    background-color: rgb(117, 201, 230);
+
+}
+
+.gameboard-header {
+    display: flex;
+    justify-content: space-around;
+    font-size: 14pt;
+    border-bottom: 1pt solid;
+}
+
+i {
+    font-size: 26pt;
+}
