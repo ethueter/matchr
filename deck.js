@@ -1,22 +1,22 @@
 class Deck  {
     constructor() {
         this.templateCardDeck = [
-          { pic: "fa fa-camera-retro", faceup: false, matched: false },
-          { pic: "fa fa-camera-retro", faceup: false, matched: false },
-          { pic: "fa fa-hackaday", faceup: false, matched: false },
-          { pic: "fa fa-hackaday", faceup: false, matched: false },
-          { pic: "fa fa-bolt", faceup: false, matched: false },
-          { pic: "fa fa-bolt", faceup: false, matched: false },
-          { pic: "fa fa-balance-scale", faceup: false, matched: false },
-          { pic: "fa fa-balance-scale", faceup: false, matched: false },
-          { pic: "fa fa-paw", faceup: false, matched: false },
-          { pic: "fa fa-paw", faceup: false, matched: false },
-          { pic: "fa fa-trophy", faceup: false, matched: false },
-          { pic: "fa fa-trophy", faceup: false, matched: false },
-          { pic: "fa fa-rocket", faceup: false, matched: false },
-          { pic: "fa fa-rocket", faceup: false, matched: false },
-          { pic: "fa fa-star", faceup: false, matched: false },
-          { pic: "fa fa-star", faceup: false, matched: false }
+          { pic: "fa fa-camera-retro fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-camera-retro fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-hackaday fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-hackaday fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-bolt fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-bolt fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-balance-scale fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-balance-scale fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-paw fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-paw fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-trophy fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-trophy fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-rocket fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-rocket fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-star fa-3x", faceup: false, matched: false },
+            { pic: "fa fa-star fa-3x", faceup: false, matched: false }
         ];
     }
 
