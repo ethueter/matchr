@@ -37,6 +37,23 @@ h1 {
     border-bottom: 1pt solid;
 }
 
-i {
-    font-size: 26pt;
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+/* Card Styling */
+
+.card-down {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 1pt solid;
+    border-radius: 5px;
+    list-style: none;
+}
+
+.card-up {
+
 }
